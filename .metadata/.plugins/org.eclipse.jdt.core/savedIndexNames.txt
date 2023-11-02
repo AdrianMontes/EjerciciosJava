@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\adria\Desktop\Formación fundación esplai\Java\Ejercicios\.metadata\.plugins\org.eclipse.jdt.core
+2839995666.index
+1865797976.index
+2607843216.index
